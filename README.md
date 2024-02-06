@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align="center">Welcome to my Github!</h1>
 
+<div align="center">People around here call me <strong><em>Makuno</em></strong>...</div>
+<div align="center">...but you can call me <strong><em>Mario</em></strong></div>
+<figure>
+  <img src="" alt="">
+</figure>
+<h2 align="center"><u>About Me</u></h2>
+<div></div>
 <!--
 **xMakuno/xmakuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
