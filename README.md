@@ -1,12 +1,13 @@
 <h1 align="center">Welcome to my Github!</h1>
 
 <div align="center">People around here call me <strong><em>Makuno</em></strong>...</div>
-<div align="center">...but you can call me <strong><em>Mario</em></strong></div>
 <figure>
   <img src="./assets/space-wallpaper.gif" alt="Outer Space">
 </figure>
+<div align="center">...but you can call me <strong><em>Mario.</em></strong></div>
+
 <h2 align="center"><u>About Me</u></h2>
-<div align="center"> 📚 I'm a Computer Science student at UCA El Salvador 🦉 <br> 👔 I work as a freelance Full Stack Web Developer 🖥️ <br> 💫 I am passionate about Space, Astronomy & Chemistry 🔭 </div>
+<div align="center"> 📚 I'm a Computer Science student at <em>UCA El Salvador</em> 🦉 <br> 👔 I work as a freelance <em>Full Stack Web Developer</em> 🖥️ <br> 💫 I am passionate about <em>Space, Astronomy & Chemistry</em> 🔭 </div>
 <!--
 **xMakuno/xmakuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
