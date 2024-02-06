@@ -3,10 +3,10 @@
 <div align="center">People around here call me <strong><em>Makuno</em></strong>...</div>
 <div align="center">...but you can call me <strong><em>Mario</em></strong></div>
 <figure>
-  <img src="" alt="">
+  <img src="./assets/space-wallpaper.gif" alt="Outer Space">
 </figure>
 <h2 align="center"><u>About Me</u></h2>
-<div></div>
+<div align="center"> 📚 I'm a Computer Science student at UCA El Salvador 🦉 <br> 👔 I work as a freelance Full Stack Web Developer 🖥️ <br> 💫 I am passionate about Space, Astronomy & Chemistry 🔭 </div>
 <!--
 **xMakuno/xmakuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
