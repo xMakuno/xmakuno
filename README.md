@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github!</h1>
 
-<div align="center">People around here call me <strong><em>Makuno</em></strong>...</div>
+<div align="center">People around here call me <strong><em>Makuno</em></strong>... <br></div>
 <figure>
   <img src="./assets/space-wallpaper.gif" alt="Outer Space">
 </figure>
