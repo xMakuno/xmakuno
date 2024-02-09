@@ -8,6 +8,9 @@
 
 <h2 align="center"><u>About Me</u></h2>
 <div align="center"> 📚 I'm a Computer Science student at <em>UCA El Salvador</em> 🦉 <br> 👔 I work as a freelance <em>Full Stack Web Developer</em> 🖥️ <br> 💫 I am passionate about <em>Space, Astronomy & Chemistry</em> 🔭 </div>
+
+<h2 align="center"><u>My Projects</u></h2>
+
 <!--
 **xMakuno/xmakuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
