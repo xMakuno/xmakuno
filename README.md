@@ -7,8 +7,7 @@
 <div align="center">...but you can call me <strong><em>Mario.</em></strong></div>
 
 <h2 align="center"><u>About Me</u></h2>
-<div align="center"> 📚 I'm a Computer Science student at <em>UCA El Salvador</em> 🦉 <br> 👔 I work as a freelance <em>Full Stack Web Developer</em> 🖥️ <br> 💫 I am passionate about <em>Space, Astronomy & Chemistry</em> 🔭 <br> 🌱 I am interested in learning Machine Learning & Data Science 🤖 </div>
-
+<div align="center"> 📚 I'm a Computer Science student at <em>UCA El Salvador</em> 🦉 <br> 👔 I work as a freelance <em>Full Stack Web Developer</em> 🖥️ <br> 💫 I am passionate about <em>Space, Astronomy & Chemistry</em> 🔭 <br> 🌱 I am interested in learning Competitive Programming, Machine Learning & Data Science 🤖 </div>
 <h2 align="center"><u>My Projects</u></h2>
 <div>Currently, I am working on personal projects that inspire me to learn more and grow as a developer!</div>
 
